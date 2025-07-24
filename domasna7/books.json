@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "The Lord of the Rings",
+        "description": "An epic fantasy adventure.",
+        "genre": "Fantasy",
+        "author": "J.R.R. Tolkien",
+        "publicationDate": "1954",
+        "pageCount": 1178,
+        "rating": 4.9
+    },
+    {
+        "id": 1,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "description": "A young wizard discovers his magical heritage.",
+        "genre": "Fantasy",
+        "author": "J.K. Rowling",
+        "publicationDate": "1997",
+        "pageCount": 223,
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "title": "The Martian",
+        "description": "An astronaut gets stranded on Mars.",
+        "genre": "Sci-fi",
+        "author": "Andy Weir",
+        "publicationDate": "2011",
+        "pageCount": 384,
+        "rating": 4.7
+    }
+]
